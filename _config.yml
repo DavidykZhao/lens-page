@@ -2,7 +2,7 @@
 title: My road, my steps
 description: Yikai's photography works.
 baseurl: "/lens" # the subpath of your site, e.g. /blog
-url: "https://davidykzhao.github.io/" # the base hostname & protocol for your site
+url: "https://davidykzhao.github.io" # the base hostname & protocol for your site
 author: Yikai Zhao
 
 # Collection settings
