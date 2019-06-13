@@ -10,4 +10,6 @@ title: Lens by HTML5 UP
 		<h2>{{ photo.title }}</h2>
 		<p>{{ photo.caption }}</p>
 	</article>
-{% endfor %}</section>
+{% endfor %}
+
+</section>
