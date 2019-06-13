@@ -2,8 +2,8 @@
 title: My road, my steps
 description: Yikai's photography works.
 baseurl: "/lens" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
+url: "https://davidykzhao.github.io/" # the base hostname & protocol for your site
+author: Yikai Zhao
 
 # Collection settings
 collections:
@@ -12,11 +12,11 @@ collections:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/DavidykZhao
+gitlab_url: 
+googleplus_url: 
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
