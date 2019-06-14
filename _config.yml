@@ -1,6 +1,6 @@
 # Site settings
-title: My road, my steps
-description: Yikai's photography works.
+title: The road less traveled by
+description: Yikai photography
 baseurl: "/lens-page" # the subpath of your site, e.g. /blog
 url: "https://davidykzhao.github.io" # the base hostname & protocol for your site
 author: Yikai Zhao
@@ -16,7 +16,7 @@ github_url: https://github.com/DavidykZhao
 gitlab_url: 
 googleplus_url: 
 instagram_url:
-linkedin_url: 
+linkedin_url: https://www.linkedin.com/in/yikaizhao/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/zdw2126062
